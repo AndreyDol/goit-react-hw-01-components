@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const ProfileWrap = styled.div`
+  margin-left: 30px;
   display: block;
   width: 240px;
   background-color: #f0fff0;
